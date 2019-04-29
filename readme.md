@@ -7,4 +7,6 @@
 - Add   
 - view   
 - edit   
-- delete
+- delete  
+
+Validations for all functionalities handled with error prompts in form.
