@@ -12,6 +12,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.css');?>">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
+<!-- About the base_url function
+	It converts the parameter into a path relative to the project directory by checking the base url in the config file.
+	This saves us from changing individual links throughout the project in case of some modifications in the base url of directory structure !
+-->
 
 
 <body>
